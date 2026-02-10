@@ -1,5 +1,6 @@
 # Retail-Price-Sensitivity-Analysis
 A data analytics project that evaluates how price variations affect retail demand using Excel, Python, regression modeling, and data visualization.
+
 This project focuses on data analysis and visualization using Python to solve two real-world business problems:
 
 Retail Price Sensitivity Analysis – Understanding how product price affects sales quantity.
